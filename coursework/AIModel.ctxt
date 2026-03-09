@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AIModel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AIModel\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=modelName\ price\ parameterCount\ contextWindow
+comment1.target=AIModel(java.lang.String,\ double,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getModelName()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=int\ getParameterCount()
+comment5.params=
+comment5.target=java.lang.String\ getContextWindow()
+comment6.params=
+comment6.target=java.lang.String\ display()
+numComments=7
